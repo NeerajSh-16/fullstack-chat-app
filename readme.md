@@ -35,9 +35,14 @@ A **real-time chat application** built with the MERN stack and powered by **Sock
 
 ## 📸 UI Preview
 
-| Login / Signup | Chat Interface | Settings |
-|----------------|----------------|----------|
-| ![Login](/frontend/public/login.png) | ![Chat](/frontend/public/chat.png) | ![Theme](/frontend/public/theme.png) |
+### 🔐 Login / Signup
+![Login](/frontend/public/login.png)
+
+### 💬 Chat Interface
+![Chat](/frontend/public/chat.png)
+
+### 🎨 Theme Settings
+![Theme](/frontend/public/theme.png)
 
 ---
 
