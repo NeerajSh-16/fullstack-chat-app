@@ -37,7 +37,7 @@ A **real-time chat application** built with the MERN stack and powered by **Sock
 
 | Login / Signup | Chat Interface | Settings |
 |----------------|----------------|----------|
-| ![Login](https://asset.cloudinary.com/dak8vdcux/edbeee6301d129d3ec76dc7a73a09912) | ![Chat](https://asset.cloudinary.com/dak8vdcux/dc702f2d9eb67c0a923e13a5c68af6e8) | ![Theme](https://asset.cloudinary.com/dak8vdcux/229dc633fab9fd1b317d65d85693b3fa) |
+| ![Login](/frontend/public/login.png) | ![Chat](/frontend/public/chat.png) | ![Theme](/frontend/public/theme.png) |
 
 ---
 
