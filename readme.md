@@ -125,7 +125,7 @@ MIT © [Neeraj Sharma](https://github.com/NeerajSh-16)
 
 ## 💬 Contact
 
-- Twitter: [@zhestoki.y](https://twitter.com/zhestoki.y)
+- Instagram: [@zhestoki.y](https://instagram.com/zhestoki.y)
 - LinkedIn: [linkedin.com/in/neerajsh](https://linkedin.com/in/neerajsh)
 
 ---
